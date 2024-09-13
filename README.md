@@ -37,6 +37,8 @@ Enter a positive integer: 12345
 12345
 ```
 
+![image](https://github.com/user-attachments/assets/6bfb5632-6997-4a3d-87aa-df5a4f12df41)
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
